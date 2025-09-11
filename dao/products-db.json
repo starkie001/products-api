@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": 5,
+    "created_at": "2024-12-12 04:21:45",
+    "isActive": true,
+    "name": "Product 5",
+    "category": "Samsung Galaxy 6",
+    "price": 37.55,
+    "stockQuantity": 21,
+    "brand": "BrandG"
+  },
+  {
+    "product_id": 6,
+    "created_at": "2024-12-12 04:21:45",
+    "isActive": true,
+    "name": "Product 6.1",
+    "category": "Samsung Galaxy 6",
+    "price": 37.55,
+    "stockQuantity": 21,
+    "brand": "BrandG"
+  },
+  {
+    "product_id": 7,
+    "created_at": "2024-12-12 04:21:45",
+    "isActive": true,
+    "name": "Product 7",
+    "category": "Samsung Galaxy 6",
+    "price": 37.55,
+    "stockQuantity": 21,
+    "brand": "BrandG"
+  },
+  {
+    "product_id": 8,
+    "created_at": "2024-12-12 04:21:45",
+    "isActive": true,
+    "name": "Product 8",
+    "category": "Samsung Galaxy 6",
+    "price": 37.55,
+    "stockQuantity": 21,
+    "brand": "BrandG"
+  },
+  {
+    "product_id": 9,
+    "created_at": "2024-12-12 04:21:45",
+    "isActive": true,
+    "name": "Product 8",
+    "category": "Samsung Galaxy 6",
+    "price": 37.55,
+    "stockQuantity": 21,
+    "brand": "BrandG"
+  },
+  {
+    "product_id": 9,
+    "created_at": "2024-12-12 04:21:45",
+    "isActive": true,
+    "name": "Product 9",
+    "category": "Samsung Galaxy 6",
+    "price": 37.55,
+    "stockQuantity": 21,
+    "brand": "BrandG"
+  },
+  {
+    "product_id": 10,
+    "created_at": "2024-12-12 04:21:45",
+    "isActive": true,
+    "name": "Product 10",
+    "category": "Samsung Galaxy 6",
+    "price": 37.55,
+    "stockQuantity": 21,
+    "brand": "BrandG"
+  },
+  {
+    "product_id": 11,
+    "created_at": "2024-12-12T04:21:45Z",
+    "isActive": true,
+    "name": "Product 11",
+    "category": "Books",
+    "price": 37.55,
+    "stockQuantity": 21,
+    "brand": "BrandG"
+  }
+]

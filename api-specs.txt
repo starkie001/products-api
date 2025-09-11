@@ -1,0 +1,28 @@
+Create a Swagger (OpenAPI 3.0) specification file for a RESTful Products API.
+Here’s my Product model:
+{
+  "product_id": 1,
+  "name": "Product 1",
+  "category": "Books",
+  "price": 37.55,
+  "stockQuantity": 21,
+  "brand": "BrandG",
+  "created_at": "2024-12-12 04:21:45",
+  "isActive": true
+}
+Specs:
+OpenAPI version 3.0 or later (JSON)
+My Products API url will be http://localhost:3000/api/products
+GET /products – list all products
+Query filters: limit, category
+GET /products/{id} – get a product by its product_id
+POST /products – create a new product
+PUT /products/{id} – update an existing product
+PATCH /products/{id} – update partial fields of a product
+DELETE /products/{id} – delete a product
+Define request and response schemas using the product model
+Use appropriate data types and formats (e.g., date-time for created_at, number for price)
+Include response examples and possible HTTP status codes (200, 201, 400, 401, 404, 500 etc.)
+Tag all endpoints under "Products"
+The API should use Authorization header with “ApiKey ****”
+How can new consumers request access to the API
