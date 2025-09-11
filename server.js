@@ -5,7 +5,7 @@ import { errorHandler } from './middleware/error-handler.js';
 import { checkApiKey } from './middleware/auth-handler.js';
 import dotenv from 'dotenv';
 import swaggerUi from 'swagger-ui-express';
-import swaggerDocument from './swagger.json' assert {type: 'json'};
+//import swaggerDocument from './swagger.json' assert {type: 'json'};
 
 dotenv.config(); // Load env vars from .env file
 
